@@ -9,8 +9,8 @@
         "Uvindu Bro"
     ],
     "website": "https://uvindubro.tk",
-    "repository": "https://github.com/UvinduBro/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/UvinduBro",
+    "repository": "https://github.com/anonbd1/Unlimited-Filter-Bot",
+    "success_url": "https://telegram.dog/jhondev_xd",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
